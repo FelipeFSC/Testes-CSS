@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: rgb(0, 119, 79);
+    width: auto;
+    height: 120px;
+}
+
+.menu {
+    background-color: aquamarine;
+    width: auto;
+    height: 40px;
+}
